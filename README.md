@@ -3,7 +3,6 @@
 ### 📁데이터셋
 대상 파일: 한국자산관리공사_국유부동산 매각현황_20211231.csv
 (https://www.data.go.kr/data/15004205/fileData.do)
-
 공공데이터포털 (https://www.data.go.kr/) 이용
 
 ### 🖥️요약
